@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ModMetaData>
+    <name>ProjectR</name>
+    <author>Goyu</author>
+    <packageId>Goyu.ProjectR</packageId>
+    <supportedVersion>
+        <li>1.5</li>
+    </supportedVersion>
+    <loadAfter>
+        <li>brrainz.harmony</li>
+    </loadAfter>
+    <description></description>
+</ModMetaData>
