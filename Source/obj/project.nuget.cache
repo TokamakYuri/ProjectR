@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ovv6jYBZJlCxNqF5jMWhBhLyHX6QRvmK8s+K1dI1UhsTIaFYOalFiGAuaNDAJJU5IuD6da7TsRpIen3+8wt1nQ==",
+  "success": true,
+  "projectFilePath": "E:\\SteamLibrary\\steamapps\\common\\RimWorld\\Mods\\ProjectR\\Source\\Source.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tokam\\.nuget\\packages\\krafs.rimworld.ref\\1.5.4063\\krafs.rimworld.ref.1.5.4063.nupkg.sha512",
+    "C:\\Users\\tokam\\.nuget\\packages\\lib.harmony\\2.3.3\\lib.harmony.2.3.3.nupkg.sha512"
+  ],
+  "logs": []
+}
