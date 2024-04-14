@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Source
 {
-    public class Class1
+    internal class DebugLog
     {
     }
 }
