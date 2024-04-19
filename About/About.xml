@@ -10,6 +10,6 @@
     <loadAfter>
         <li>brrainz.harmony</li>
     </loadAfter>
-    <modIconPath>./ProjectRIcon</modIconPath>
+    <modIconPath>./ModIcon</modIconPath>
     <description></description>
 </ModMetaData>
