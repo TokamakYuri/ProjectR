@@ -4,9 +4,9 @@
     <name>ProjectR</name>
     <author>Goyu</author>
     <packageId>Goyu.ProjectR</packageId>
-    <supportedVersion>
+    <supportedVersions>
         <li>1.5</li>
-    </supportedVersion>
+    </supportedVersions>
     <loadAfter>
         <li>brrainz.harmony</li>
     </loadAfter>
