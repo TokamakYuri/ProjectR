@@ -9,4 +9,9 @@ namespace ProjectR
     internal class DebugLog
     {
     }
+
+    class RoleSet
+    {
+
+    }
 }
