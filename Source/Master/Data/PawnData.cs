@@ -12,7 +12,23 @@ namespace ProjectR
     {
         public Pawn Pawn = null;
 
+        public bool IsHero = false;
+        public bool IsIronMan = false;
+        public string HeroOwner = "";
+
         public PawnData() { }
 
+        public PawnData(Pawn pawn)
+        {
+            Pawn = pawn;
+
+        }
+
+        public void ExposeData()
+        {
+            Scribe_Values.Look(ref IsHero, "IsHero", false, true);
+            Scribe_Values.Look(ref IsIronMan, "IsIronMan", false, true);
+            Scribe_Values.Look(ref HeroOwner, "HeroOwner", "", true);
+        }
     }
 }
