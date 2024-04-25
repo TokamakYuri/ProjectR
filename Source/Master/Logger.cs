@@ -18,7 +18,7 @@ namespace ProjectR
 
             if (!IsDevModeEnable) return;
             UnityEngine.Debug.Log(text);
-            messageQueuePR.Enqueue(new LogMessage(LogMessageType.Message, text, StackTraceUtility.ExtractStackTrace());
+            messageQueuePR.Enqueue(new LogMessage(LogMessageType.Message, text, StackTraceUtility.ExtractStackTrace()));
         }
 
         // throw warning massage

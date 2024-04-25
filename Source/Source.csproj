@@ -43,9 +43,11 @@
   <ItemGroup>
     <Compile Include="Master\Compatibility.cs" />
     <Compile Include="Master\Data\PawnData.cs" />
+    <Compile Include="TureNPC\TureNPCJobTag.cs" />
     <Compile Include="Master\Logger.cs" />
     <Compile Include="Master\ModLog.cs" />
-    <Compile Include="Master\Multiplayer.cs" />
+    <Compile Include="Master\ProjectRMultiplayer.cs" />
+    <Compile Include="TureNPC\TrueNPC.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Settings\ProjectRSettings.cs" />
   </ItemGroup>

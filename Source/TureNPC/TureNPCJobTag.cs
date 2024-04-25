@@ -5,11 +5,13 @@ using System.Text;
 using System.Threading.Tasks;
 using Verse;
 using RimWorld;
-using Multiplayer;
+using Verse.AI;
 
 namespace ProjectR
 {
-    internal class Multiplayer
+    public enum TureNPCJobTag : byte
     {
+        Trader,
+        Medical
     }
 }

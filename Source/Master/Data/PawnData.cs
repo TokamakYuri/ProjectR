@@ -15,6 +15,7 @@ namespace ProjectR
         public bool IsHero = false;
         public bool IsIronMan = false;
         public string HeroOwner = "";
+        public bool IsTrueNPC = false;
 
         public PawnData() { }
 
@@ -29,6 +30,7 @@ namespace ProjectR
             Scribe_Values.Look(ref IsHero, "IsHero", false, true);
             Scribe_Values.Look(ref IsIronMan, "IsIronMan", false, true);
             Scribe_Values.Look(ref HeroOwner, "HeroOwner", "", true);
+            Scribe_Values.Look(ref IsTrueNPC, "IsTrueNPC", false, true);
         }
     }
 }
